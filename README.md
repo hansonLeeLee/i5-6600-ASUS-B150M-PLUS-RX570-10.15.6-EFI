@@ -1,4 +1,5 @@
 # i5-6600-ASUS-B150M-PLUS-RX570-10.15.6-EFI
+规格
 主板型号	ASUS B150M-PLUS（B150芯片组）
 操作系统	macOS Catalina 10.15.6
  处理器 Intel i5-6600 
